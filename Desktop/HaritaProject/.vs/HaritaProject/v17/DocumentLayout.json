@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samet.yoktan\\Desktop\\HaritaProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D654AC16-2479-43D1-A475-963B3DB25A26}|HaritaProject\\HaritaProject.csproj|c:\\users\\samet.yoktan\\desktop\\haritaproject\\haritaproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D654AC16-2479-43D1-A475-963B3DB25A26}|HaritaProject\\HaritaProject.csproj|solutionrelative:haritaproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 163,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\samet.yoktan\\Desktop\\HaritaProject\\HaritaProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HaritaProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\samet.yoktan\\Desktop\\HaritaProject\\HaritaProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HaritaProject\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T09:31:11.371Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
